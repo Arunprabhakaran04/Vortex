@@ -1,0 +1,2 @@
+# Vortex
+ This project involves the development of an autonomous navigation system for drones operating in gas giant atmospheres. The system utilizes high-fidelity simulation data, LiDAR, pressure sensors, and cameras for real-time obstacle detection and navigation. It implements advanced machine learning algorithms such as DQN and PPO for adaptive and efficient decision-making. The project ensures robustness with real-time data processing, dynamic trajectory adjustments, and continuous validation.
